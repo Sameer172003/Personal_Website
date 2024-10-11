@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Music Player App",
+    "desc": "Fully fledged frontend music app based on different design patterns. Built using HTML, CSS, JavaScript.",
+    "image": "music",
+    "category": "mern",
+    "links": {
+      "view": "https://music-player-pi-five.vercel.app/",
+      "code": "https://github.com/Sameer172003/Music_Player"
+    }
+  },
+  {
+    "name": "Task Scheduler App",
+    "desc": "Fully fledged frontend CRUD app based on different design patterns. Built using HTML, CSS, JavaScript.",
+    "image": "task",
+    "category": "mern",
+    "links": {
+      "view": "https://task-scheduler-o31k.vercel.app/",
+      "code": "https://github.com/Sameer172003/Task_Scheduler"
+    }
+  },
+  {
+    "name": "E-Commerce Website",
+    "desc": "Fully fledged frontend E-commerce based on different design patterns. Built using HTML, CSS, JavaScript.",
+    "image": "website",
+    "category": "basicweb",
+    "links": {
+      "view": "https://e-commerce-frontend-tau-pink.vercel.app/",
+      "code": "https://github.com/Sameer172003/E_commerce_frontend"
+    }
+  },
+  {
+    "name": "Personal Website",
+    "desc": "This website is specially build for personal use. Built using HTML, CSS, JavaScript.",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sameer-portfolio-k6qv.vercel.app/",
+      "code": "https://github.com/Sameer172003/Sameer_Portfolio"
+    }
+  }
+]
